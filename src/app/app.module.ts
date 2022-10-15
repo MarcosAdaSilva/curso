@@ -29,7 +29,7 @@ import { TwoWayBindingComponent } from './components/two-way-binding/two-way-bin
     PipesComponent,
     TwoWayBindingComponent,
   ],
-  imports: [BrowserModule, AppRoutingModule, FormsModule],
+  imports: [BrowserModule, FormsModule, AppRoutingModule],
   providers: [],
   bootstrap: [AppComponent],
 })
